@@ -5,3 +5,6 @@
 
 
 第二次修改，commit
+
+
+学习git commit --amend命令
